@@ -1,6 +1,6 @@
 //
 //  AOZORA Kyodo Center for 2021/9/23
-//   Let's make Robot Badge lightening.
+//   Let's make a glowing robot badge.
 //
 //   
 
