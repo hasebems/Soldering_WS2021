@@ -1,0 +1,5 @@
+{
+    "configuration": "cpu=attiny85at16e",
+    "board": "tiny:avr:tinyx5",
+    "sketch": "Soldering_WS2021.ino"
+}
